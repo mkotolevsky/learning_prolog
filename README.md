@@ -1,2 +1,3 @@
 # learning_prolog
-This repository contains my materials on learning the prolog language
+Этот репозиторий содержит мои материалы по изучению языка Prolog.  
+1 курс магистратуры 2 семестр.
